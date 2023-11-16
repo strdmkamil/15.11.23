@@ -1,0 +1,14 @@
+ZALETY:
+bezpieczeństwo - dane raczej nie znikną z bazy i raczej nikt ich nie ukradnie,
+wygoda
+łatwy dostęp do plików,
+brak konieczności targania ze sobą fizycznych nośników,
+proste zasady - opłata za konkretną powierzchnię dyskową.
+
+WADY:
+wątpliwe bezpieczeństwo plików wskutek działania cyberprzestępców lub awarii fizycznych serwerów,
+ryzyko ograniczonego dostępu do plików,
+konieczność stałego połączenia z Internetem,
+konieczność uiszczania cyklicznej opłaty abonamentowej,
+cena,
+różne modele integracji z bazą.

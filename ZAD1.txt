@@ -1,0 +1,5 @@
+MySQL https://www.mysql.com/ 8.2.0 tak
+PostgreSQL https://www.postgresql.org.pl/ 11.22 nie 
+Oracle Database https://www.oracle.com/pl/database/ 21c tak
+InterBase https://www.embarcadero.com/products/interbase 7.5 tak
+DB2 https://www.ibm.com/products/db2 12.3b tak
